@@ -8,9 +8,9 @@
       "type": "image/png"
     }
   ],
-  "name": "Zero Width Shortener",
+  "name": "Amarevite Testing Zone",
   "scope": "/",
-  "short_name": "ZWS",
+  "short_name": "ATZ",
   "start_url": "/",
   "theme_color": "#F5F5F5"
 }
